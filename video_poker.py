@@ -174,4 +174,6 @@ def main():
         elif ans == 'n':
             print("You've cashed out with " + str(total) + " chips.")
             exit()
+
+main()
         
